@@ -1,0 +1,14 @@
+.container{
+	margin-top: 15%;
+	text-align: center;
+}
+.Moyenne{
+	font-weight: 800;
+}
+
+.etudiant{
+	border: 2px blue solid;
+}
+.position-fixed{
+	margin-left: 30%;
+}

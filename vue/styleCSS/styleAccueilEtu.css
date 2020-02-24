@@ -1,0 +1,58 @@
+form{
+	width: 60%;
+	border: 3px solid black;
+	margin: auto;
+	margin-top: 100px;
+	border-radius: 5px;
+	padding: 2%;
+	font-weight: 900;
+}	
+
+body div form button{
+	width: 20%;
+	margin-left: 40%;
+}
+
+#Test{
+	width: 100%;
+	border: 3px solid black;
+	margin: auto;
+	margin-top: 100px;
+	box-shadow:0 0 1000px 100px lightgreen;
+	border-radius: 5px;
+	padding: 2%;
+	font-weight: 900;
+}
+
+#Question {
+	width: 60%;
+	border: 3px solid black;
+	margin: auto;
+	margin-top: 50px;
+	border-radius: 5px;
+	padding: 2%;
+	font-weight: 900;
+}
+
+#Theme {
+	color : grey;
+}
+
+#bonneReponse {
+	color :green;
+}
+
+#AfficherQuestion {
+	color : blue;
+}
+
+#Note {
+	text-align: center;
+	width: 30%;
+	border: 3px solid black;
+	margin: auto;
+	margin-top: 50px;
+	border-radius: 5px;
+	padding: 2%;
+	font-weight: 900;
+}

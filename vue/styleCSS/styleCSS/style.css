@@ -1,0 +1,14 @@
+html,
+body,
+header,
+.view {
+    height: 100%;
+}
+
+#contenu{
+	padding-top: 200px;
+}
+
+#main{
+	min-width: 600px;
+}
